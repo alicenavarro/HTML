@@ -1,0 +1,1 @@
+console.log("ejecutando js desde vsc")
